@@ -6,4 +6,4 @@
 I also work on web projects
 
 ### Other Links
-- [My website](https://sreyassabbani.github.io/sreyassabbani/)
+- [My website](https://sreyassabbani.github.io/)
