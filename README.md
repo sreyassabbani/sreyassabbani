@@ -1,9 +1,11 @@
-## Hi there!
-- I work on fun projects.
-- Check out
-  - [Ray Tracing](https://github.com/sreyassabbani/ray-tracing-rs), a ray/path tracer written in Rust.
+## Hi there! 🦀
 
-I also work on web projects
+I build things to understand them.
 
-### Other Links
-- [My website](https://sreyassabbani.github.io/)
+Right now that means:
+- [TML (typed machine learning)](https://github.com/sreyassabbani/tml), an experimental library for me to gain solid intuition for ML and also write good library code.
+- [Ray Tracing](https://github.com/sreyassabbani/ray-tracing-rs), a ray/path tracer written in Rust from scratch.
+
+---
+
+I guess I have to clarify the crab always meant Rust. I've been following but haven't tried OpenClaw yet.
