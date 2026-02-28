@@ -8,4 +8,4 @@ Right now that means:
 
 ---
 
-I guess I have to clarify the crab always meant Rust. I've been following but haven't tried OpenClaw yet.
+I guess I have to clarify the crab always meant Rust, but maybe it'll start to mean OpenClaw soon.
