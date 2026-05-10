@@ -1,9 +1,9 @@
 Typical math + physics + CS enthusiast.
 
-Check out: [`sreyas.is`](https://sreyas.is)
+You can see some of my open-source work here.
 
 ---
 
-Projects:
-- [TML (typed machine learning)](https://github.com/sreyassabbani/tml), an experimental library for me to gain solid intuition for ML and also write good library code.
-- [Ray Tracing](https://github.com/sreyassabbani/ray-tracing-rs), a ray/path tracer written in Rust from scratch.
+- Check out: [`sreyas.is`](https://sreyas.is) ([source](https://github.com/sreyassabbani/sreyas.is))
+
+- M4 Air, [`nix-config`](https://github.com/sreyassabbani/nix-config) (more config & work setup: [`sreyas.is/using`](https://sreyas.is/using))
